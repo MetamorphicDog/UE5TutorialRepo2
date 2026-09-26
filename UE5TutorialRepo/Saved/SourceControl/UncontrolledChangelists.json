@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/BP_GameMode.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/LA/3C0VTJQDYRA7CS26D755FC.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/BP_FPCharacter.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/IMC_Default.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/IA_ActionJump.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/IA_Jump.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/IA_Look.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/IA_Move.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/Player_Jump.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/Player_Look.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/PlayerMove.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/Player_Move.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/IA_PlayerJump.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/IA_PlayerLook.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/InputActions/IA_PlayerMove.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/FirstPerson/Lvl_FirstPerson.umap"
+			]
+		}
+	]
+}
