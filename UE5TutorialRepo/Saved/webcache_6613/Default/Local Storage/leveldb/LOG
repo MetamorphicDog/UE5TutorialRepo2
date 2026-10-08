@@ -1,2 +1,5 @@
-2026/10/01-14:33:36.071 590c Creating DB C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/10/01-14:33:36.103 590c Reusing MANIFEST C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/08-15:31:26.310 9370 Creating DB C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/08-15:31:26.350 9370 Reusing MANIFEST C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/08-16:16:07.161 2868 Level-0 table #5: started
+2026/10/08-16:16:07.170 2868 Level-0 table #5: 77879 bytes OK
+2026/10/08-16:16:07.174 2868 Delete type=0 #3

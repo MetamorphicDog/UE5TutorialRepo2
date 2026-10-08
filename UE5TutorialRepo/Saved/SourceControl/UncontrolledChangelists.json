@@ -5,10 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo2/UE5TutorialRepo/Content/Framework/Blueprints/DP_Turret.uasset",
 				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo2/UE5TutorialRepo/Content/Framework/Blueprints/Turret/BP_Turret.uasset",
 				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo2/UE5TutorialRepo/Content/Framework/Blueprints/Turret/BP_Turret_Projectile.uasset",
 				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo2/UE5TutorialRepo/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2C/MYO2NOHZX21621S08DXGSG.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo2/UE5TutorialRepo/Content/Maps/Lvl_TowerDefense.umap",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo2/UE5TutorialRepo/Content/Materials/M_StoneTile.uasset",
+				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo2/UE5TutorialRepo/Content/Framework/Blueprints/DP_Turret.uasset",
 				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/BP_GameMode.uasset",
 				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/LA/3C0VTJQDYRA7CS26D755FC.uasset",
 				"C:/Users/betas/OneDrive/Documents/GitHub/UE5TutorialRepo/UE5TutorialRepo/Content/Framework/Blueprints/Player/BP_FPCharacter.uasset",
