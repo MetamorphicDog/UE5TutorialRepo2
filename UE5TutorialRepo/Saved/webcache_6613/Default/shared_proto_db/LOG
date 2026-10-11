@@ -1,2 +1,3 @@
-2026/10/08-15:31:29.235 5778 Creating DB C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/10/08-15:31:29.250 5778 Reusing MANIFEST C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/10/09-20:15:21.128 9328 Reusing MANIFEST C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/10/09-20:15:21.133 9328 Recovering log #3
+2026/10/09-20:15:21.133 9328 Reusing old log C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\shared_proto_db/000003.log 

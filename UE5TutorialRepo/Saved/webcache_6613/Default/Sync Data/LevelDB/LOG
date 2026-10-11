@@ -1,2 +1,3 @@
-2026/10/08-15:31:26.228 5778 Creating DB C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/10/08-15:31:26.256 5778 Reusing MANIFEST C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/09-20:15:17.090 543c Reusing MANIFEST C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/09-20:15:17.097 543c Recovering log #3
+2026/10/09-20:15:17.098 543c Reusing old log C:\Users\betas\OneDrive\Documents\GitHub\UE5TutorialRepo2\UE5TutorialRepo\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
